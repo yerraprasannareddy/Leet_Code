@@ -8,7 +8,7 @@ class Solution {
             while(currSum >= target){
                 if(right - left +1<minLength){
                     minLength = right - left+1;
-                }
+                } 
                 currSum -= nums[left];
                 left++;
             }
