@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/yerraprasannareddy/Leet_Code/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/yerraprasannareddy/Leet_Code/tree/master/1236-n-th-tribonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/yerraprasannareddy/Leet_Code/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/yerraprasannareddy/Leet_Code/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -53,4 +55,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/yerraprasannareddy/Leet_Code/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/yerraprasannareddy/Leet_Code/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
