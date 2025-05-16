@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0643-maximum-average-subarray-i) |
 | [0898-transpose-matrix](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0898-transpose-matrix) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/yerraprasannareddy/Leet_Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/yerraprasannareddy/Leet_Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/yerraprasannareddy/Leet_Code/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/yerraprasannareddy/Leet_Code/tree/master/1236-n-th-tribonacci-number) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/yerraprasannareddy/Leet_Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -81,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0898-transpose-matrix) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/yerraprasannareddy/Leet_Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 <!---LeetCode Topics End-->
