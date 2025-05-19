@@ -1,16 +1,16 @@
 class Solution {
     public int diagonalSum(int[][] mat) {
-        int row=mat.length;
-        int sum =0;
-        for(int rows=0;rows<row;rows++){
-            
-            sum += mat[rows][rows];
-            sum += mat[rows][row-1-rows];
-            
-        }
-        if(row%2 !=0){
-            sum -= mat[row/2][row/2];
-        }
-        return sum;
+      int sum=0;
+      int len=mat.length;
+      for(int i=0;i<len;i++){
+        sum+=mat[i][i];
+        sum+=mat[i][len-1-i];
+      }
+      if(len %2 !=0){
+        sum -= mat[len/2][len/2];
+      }
+      return sum;
+
+        
     }
 }
