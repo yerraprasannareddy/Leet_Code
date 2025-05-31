@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0861-flipping-an-image](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0861-flipping-an-image) |
 ## Divide and Conquer
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/yerraprasannareddy/Leet_Code/tree/master/3321-type-of-triangle) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
