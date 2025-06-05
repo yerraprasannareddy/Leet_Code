@@ -125,4 +125,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0203-remove-linked-list-elements) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
