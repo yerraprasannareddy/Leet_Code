@@ -134,11 +134,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0225-implement-stack-using-queues) |
+| [0969-number-of-recent-calls](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0225-implement-stack-using-queues) |
 | [0649-dota2-senate](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0649-dota2-senate) |
+| [0969-number-of-recent-calls](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0969-number-of-recent-calls) |
 ## String
 |  |
 | ------- |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0649-dota2-senate) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
