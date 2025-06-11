@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/yerraprasannareddy/Leet_Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/yerraprasannareddy/Leet_Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/yerraprasannareddy/Leet_Code/tree/master/1677-matrix-diagonal-sum) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/yerraprasannareddy/Leet_Code/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yerraprasannareddy/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3321-type-of-triangle](https://github.com/yerraprasannareddy/Leet_Code/tree/master/3321-type-of-triangle) |
 ## Two Pointers
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/yerraprasannareddy/Leet_Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/yerraprasannareddy/Leet_Code/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yerraprasannareddy/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sorting
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0225-implement-stack-using-queues) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/yerraprasannareddy/Leet_Code/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0225-implement-stack-using-queues) |
 | [0649-dota2-senate](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0969-number-of-recent-calls) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/yerraprasannareddy/Leet_Code/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yerraprasannareddy/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
