@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0326-power-of-three) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0861-flipping-an-image) |
