@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0225-implement-stack-using-queues) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/yerraprasannareddy/Leet_Code/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
@@ -174,10 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
 |  |
@@ -186,5 +189,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/yerraprasannareddy/Leet_Code/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
